@@ -58,6 +58,7 @@ h4 {font-size: 22px;}
 .nav-side-menu ul .sub-menu li, .nav-side-menu li .sub-menu li {background-color: #181c20;border: none;line-height: 3.4rem;border-bottom: 1px solid #23282e; margin-left: 0px;}
 .nav-side-menu ul .sub-menu li:hover, .nav-side-menu li .sub-menu li:hover {background-color: #3498db; color:#fff;}
 .nav-side-menu li .sub-menu li a, .nav-side-menu ul .sub-menu li a{display: block;padding-left: 20px;}
+.nav-side-menu ul .sub-menu li:focus {background-color: #2e353d;}
 .nav-side-menu ul .sub-menu li a i, .nav-side-menu li .sub-menu li a i{padding-right: 10px !important;}
 
 
