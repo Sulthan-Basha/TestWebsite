@@ -105,6 +105,7 @@ div.bhoechie-tab div.bhoechie-tab-content:not(.active){display: none;}
 .list-group-item:first-child {border-radius:0px;}
 .bhoechie-tab-content img {padding:10px 40px 20px;}
 .bhoechie-tab-content table tr td {font-size:12px;}
+div.bhoechie-tab-menu div.list-group>a h4 {margin:15px 0;}
 
 
 .content-right {overflow:hidden; width:20%; float:right; position:absolute; right:0;}
