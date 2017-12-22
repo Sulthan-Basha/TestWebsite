@@ -43,7 +43,7 @@ h4 {font-size: 22px;}
 .right-content .dropdown { margin-top:8px;}
 .right-content .profile {margin-top:0px;}
 .profile a span{padding:10px; background-color:#fff; color:#3498db; border-radius:20px;}
-.nav-side-menu {overflow: auto;background-color: #2e353d; position: fixed;top: 50px;width: 220px;color: #e1ffff; z-index:1;}
+.nav-side-menu {overflow: auto;background-color: #2e353d; position: fixed;top: 50px;width: 220px; color: #e1ffff; z-index:1;}
 .nav-side-menu .brand {background-color: #23282e;line-height: 50px;display: block;text-align: center;font-size: 14px;}
 .topbar .toggle-btn {display: none;}
 .nav-side-menu ul, .nav-side-menu li {list-style: none;padding: 0px;margin: 0px;line-height: 4rem;cursor: pointer;visibility: visible !important;}
@@ -271,3 +271,9 @@ div.bhoechie-tab div.bhoechie-tab-content:not(.active){display: none;}
 }
 	
 }
+
+
+@media only screen and (min-width: 767px) {
+	.nav-side-menu {position:relative;  height:100%; overflow: auto;background-color: #2e353d; position: fixed;top: 50px;width: 220px; color: #e1ffff; z-index:1;}
+}
+	
