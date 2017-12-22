@@ -169,6 +169,11 @@ div.bhoechie-tab div.bhoechie-tab-content:not(.active){display: none;}
     line-height: 2;
 }
 
+.iconset {
+    left: 22%;
+}
+
+
 }
 
 @media only screen and (min-width: 768px) and (max-width: 1023px) {
@@ -244,9 +249,11 @@ div.bhoechie-tab div.bhoechie-tab-content:not(.active){display: none;}
     float: left !important;
 }
 .content-right {overflow:hidden; width:100%; float:left; position:static; margin-top:20px;}
-
-.iconset {
-    left: 22%;
+.samplelinks {
+    padding: 0 15px !important;
+}
+.content-right p {
+    padding: 0 15px !important;
 }
 
 }
