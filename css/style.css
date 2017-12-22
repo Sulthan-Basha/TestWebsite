@@ -264,3 +264,10 @@ div.bhoechie-tab div.bhoechie-tab-content:not(.active){display: none;}
   
 }
 
+
+@media only screen and (min-width: 1800px) {
+	.bhoechie-tab-content img {
+    padding: 10px 100px 20px !important;
+}
+	
+}
